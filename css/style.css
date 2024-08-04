@@ -51,6 +51,7 @@ header nav a{
     color: #fff;
     padding: 5px;
     transition: 0.5s ease;
+    border-bottom: 3px solid transparent;
 }
 
 header nav a:hover{
